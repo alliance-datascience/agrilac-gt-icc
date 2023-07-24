@@ -1,0 +1,27 @@
+global:
+  pc: 'D:/OneDrive - CGIAR/Proyectos/AgriLAC-ICC/ICC/Scrip_bases/Carpeta_compartir/'
+stage1:
+  path_control: 'control_calidad.xlsx'
+  path_save_control: "/estaciones_control"
+stage2:
+  path_historico: "/historico_actual"
+  path_hist_act_save: '/historico_actualizado'
+stage4:
+  path_station_complete: '/icc_station_actual.parquet'
+  path_tabla_Ra_N: '/tabla_Ra_N.xlsx'
+  path_constantes_rad: '/constantes_radiacion.xlsx'
+  path_location: '/estra_location.xlsx'
+stage5:
+  path_info_estaciones: '/prueba_info.xlsx'
+  path_diario_complete: '/diario_complete.parquet'
+stage6:
+  path_semanal: '/semanal_complete.parquet'
+stage7:
+  path_anual: '/anual_complete.parquet'
+  semana: 32
+stage8:
+  semana_gb: 32
+  periodo: 2021
+
+
+
