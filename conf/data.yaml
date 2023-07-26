@@ -1,25 +1,25 @@
 global:
   pc: 'D:/OneDrive - CGIAR/Proyectos/AgriLAC-ICC/ICC/Scrip_bases/Carpeta_compartir/'
-stage1:
-  path_control: 'control_calidad.xlsx'
+01-Lectura_datos_ICC:
+  path_control: 'control_calidad.txt'
   path_save_control: "/estaciones_control"
-stage2:
+02-Actualizacion_historico:
   path_historico: "/historico_actual"
   path_hist_act_save: '/historico_actualizado'
-stage4:
+04-base-datos-general-ICC:
   path_station_complete: '/icc_station_actual.parquet'
-  path_tabla_Ra_N: '/tabla_Ra_N.xlsx'
-  path_constantes_rad: '/constantes_radiacion.xlsx'
-  path_location: '/estra_location.xlsx'
-stage5:
-  path_info_estaciones: '/prueba_info.xlsx'
+  path_tabla_Ra_N: '/04_base_general_tabla_Ra_N.txt'
+  path_constantes_rad: '/04_base_general_constantes_radiacion.txt'
+  path_location: '/04_base_general_estra_location.txt'
+05-base_semana_ICC:
+  path_info_estaciones: '/05-base_semanal_info_stations.txt'
   path_diario_complete: '/diario_complete.parquet'
-stage6:
+06-base_anual_ICC:
   path_semanal: '/semanal_complete.parquet'
-stage7:
+07-Boletin_climatico_semanal_ICC:
   path_anual: '/anual_complete.parquet'
   semana: 32
-stage8:
+08_Boletin_gremio_bananero:
   semana_gb: 32
   periodo: 2021
 

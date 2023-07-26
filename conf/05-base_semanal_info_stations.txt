@@ -1,0 +1,46 @@
+No.	Estacion	Codigo	Tipo	"Resolución
+temporal *"	Fecha de inicio	Años	Longitud	Latitud	"Altitud
+(msnm)"	Estrato	t	LUGAR	RESPONSABLE	Temperatura	Radiación	Humedad Relativa	Precipitación pluvial	"Mojadura
+de la hoja"	Velocidad  y dirección del viento	"Presión
+atmosférica"	"Brillo
+solar"
+1	Cengicaña	CEN-CEN	Automática GPRS	15 minutos	1997-11-19 00:00:00	25.367123287671234	-91.055468	14.330962	297	Alto	Alto	Santa Lucía Cotz. Escuintla	ICC	Si	Si	Si	Si	Si	Si	No	Si
+2	Tehuantepec	LUT-TEH	Automática GPRS	15 minutos	1998-03-04 00:00:00	25.07945205479452	-91.103443	14.168625	67	Bajo	Bajo	Santa Lucia Cotz. Escuintla	La Unión 	Si	Si	Si	Si	Si	Si	No	No
+3	El Bálsamo	PAN-BAL	Automática GPRS	15 minutos	2002-02-13 00:00:00	21.12876712328767	-91.003744	14.281468	280	Medio	Medio	Santa Lucía Cotz. Escuintla	Ingenio Pantaleón	Si	Si	Si	Si	Si	Si	No	No
+4	Puyumate	TBU-PUY	Automática GPRS	15 minutos	2002-02-14 00:00:00	21.126027397260273	-91.25991	14.261557	77	Bajo	Bajo	Nueva Concepción, Escuintla	Ingenio Pantaleón	Si	Si	Si	Si	Si	Si	No	No
+5	San Antonio el Valle	MAG-SAV	Automática GPRS	15 minutos	2002-02-27 00:00:00	21.09041095890411	-91.200961	13.995364	10	Litoral	Litoral	La Gomera, Escuintla	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+6	Amazonas	SAA-AMA	Automática GPRS	15 minutos	2003-06-01 00:00:00	19.832876712328765	-90.774593	14.066847	21	Litoral	Litoral	Masagua, Escuintla	Ingenio Santa Ana	Si	Si	Si	Si	Si	Si	No	No
+7	Trinidad San Diego	SDT-TRI	Automática GPRS	15 minutos	2003-06-01 00:00:00	19.832876712328765	-90.844006	14.153762	71	Bajo	Bajo	Masagua, Escuintla	Ingenio Trinidad	Si	Si	Si	Si	Si	Si	No	No
+8	Irlanda	TBU-IRL	Automática GPRS	15 minutos	2003-06-06 00:00:00	19.81917808219178	-91.426867	14.145889	22	Litoral	Litoral	Tiquisate, Escuintla	Ingenio Palo Gordo	Si	Si	Si	Si	Si	Si	No	No
+9	Bonanza	LUT-BON	Automática GPRS	15 minutos	2003-10-23 00:00:00	19.438356164383563	-91.187235	14.078341	29	Litoral	Litoral	La Gomera, Escuintla	Top Green 	Si	Si	Si	Si	Si	Si	No	Si
+10	Bouganvilia	MAG-BOU	Automática GPRS	15 minutos	2004-03-14 00:00:00	19.046575342465754	-90.933352	14.11769	54	Bajo	Bajo	La Democracia, Escuintla	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+11	Naranjales	PAG-NRJ	Automática GPRS	15 minutos	2007-11-06 00:00:00	15.397260273972602	-91.476996	14.365688	96	Bajo	Bajo	Santo Domingo, Suchitepequez	Ingenio Palo Gordo	Si	Si	Si	Si	Si	Si	No	No
+12	Petén Oficina	MAT-PEO	Automática GPRS	15 minutos	2008-10-09 00:00:00	14.471232876712328	-91.411898	14.260987	46	Bajo	Bajo	Tiquisate, Escuintla	Ingenio Madre Tierra	Si	Si	Si	Si	Si	Si	No	No
+13	Costa Brava	SDT-CBR	Automática GPRS	15 minutos	2008-10-16 00:00:00	14.452054794520548	-90.920738	14.237773	151	Medio	Medio	Santa Lucía Cotz. Escuintla	Ingenio Pantaleón	Si	Si	Si	Si	Si	Si	No	No
+14	Tululá	TUL-TLA	Automática GPRS	15 minutos	2009-01-01 00:10:00	14.241076864535767	-91.586101	14.506967	254	Medio	Medio	Cuyotenango, Suchitepequez	Ingenio Tulula	Si	Si	Si	Si	Si	Si	No	No
+15	Lorena	PAG-LOR	Automática GPRS	15 minutos	2009-02-03 00:00:00	14.150684931506849	-91.419603	14.520233	333	Alto	Alto	San Antonio Suchitepequez, Suchitepequez	Ingenio Palo Gordo	Si	Si	Si	Si	Si	Si	No	No
+16	San Rafael	PAN-SRF	Automática GPRS	15 minutos	2010-02-16 00:00:00	13.115068493150686	-90.634491	14.023491	9	Litoral	Litoral	Guanagazapa, Escuintla	Ingenio Pantaleón	Si	Si	Si	Si	Si	Si	No	No
+17	Xoluta	MAG-XOL	Automática GPRS	15 minutos	2012-10-04 00:00:00	10.482191780821918	-91.861372	14.477242	52	Bajo	Bajo	Retalhuleu, Retalhuleu	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+18	San Nicolás	MAG-SNC	Automática GPRS	15 minutos	2012-10-31 00:00:00	10.408219178082192	-91.603642	14.184544	20	Litoral	Litoral	San Lorenzo, Suchitepéquez	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+19	Trinidad Magdalena	MAG-TMG	Automática GPRS	15 minutos	2013-02-13 00:00:00	10.12054794520548	-90.25819	13.93207	19	Litoral	Litoral	Pasaco, Jutiapa	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+20	El Platanar	ICC-PLT	Automática GPRS	15 minutos	2013-09-12 00:00:00	9.542465753424658	-90.937833	14.559667	1572	Alto	Alto	Acatenango, Chimaltenango	Municipalidad Acatenango	Si	Si	Si	Si	Si	Si	No	No
+21	La Giralda	SAA-LGR	Automática GPRS	15 minutos	2014-09-01 00:00:00	8.572602739726028	-90.930753	13.980289	20	Litoral	Litoral	Puerto San Jose, Escuintla	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+22	La Candelaria	ICC-CDL	Automática GPRS	15 minutos	2015-11-06 00:00:00	7.391780821917808	-90.559381	13.912322	5	Litoral	Litoral	Taxisco, Santa Rosa	Aquamaya	Si	Si	Si	Si	Si	Si	Si	No
+23	Chiquirines	ICC-CHI	Automática GPRS	15 minutos	2016-02-18 00:00:00	7.1068493150684935	-92.0422222	14.5594444	30	Litoral	Litoral	La Blanca, San Marcos	BANASA	Si	Si	Si	Si	Si	Si	No	No
+24	Providencia 	MAG-PVD	Automática GPRS	15 minutos	2016-08-26 00:00:00	6.586301369863014	-91.845667	14.365786	40	Litoral	Bajo	Retalhuleu, Retalhuleu	Ingenio Magdalena	Si	Si	Si	Si	Si	Si	No	No
+25	Álamo	ICC-ALA	Automática GPRS	15 minutos	2017-03-25 00:00:00	6.008219178082192	-92.1377472	14.6281861	30	Litoral	Litoral	Coatepeque, Quetzaltenango	HAME	Si	Si	Si	Si	Si	Si	No	No
+26	Cocales	PAG-COC	Automática GPRS	15 minutos	2017-09-21 00:00:00	5.515068493150685	-91.196198	14.382847	215	Medio	Medio	Patulul, Suchitepequez	Ingenio Palo Gordo	Si	Si	Si	Si	Si	Si	No	No
+27	Concepción	ICC-CON	Automática GPRS	15 minutos	2017-04-26 00:00:00	5.920547945205479	-90.787169	14.337483	482	Alto	Alto	Escuintla, Escuintla	Ingenio Concepción	Si	Si	Si	Si	Si	Si	No	No
+28	La Máquina	SAA-LMQ	Automática GPRS	15 minutos	2018-03-29 00:00:00	4.997260273972603	-90.328055555556	13.8905556	17	Litoral	Litoral	Chiquimulilla, Santa Rosa	Ingenio Santa Ana	Si	Si	Si	Si	Si	Si	No	No
+29	Santa Teresa 	ICC-STA	Automática GPRS	15 minutos	2019-02-06 00:00:00	4.136986301369863	-90.531055	14.449523	1196	Alto	Alto 	Villa Canales, Guatemala	Ingenio Santa Teresa	Si	Si	Si	Si	Si	Si	No	No
+30	FCA Yepocapa	ICC-YEPO	Automática GPRS	15 minutos	2019-04-24 00:00:00	3.926027397260274	-90.961541	14.483053	1275	Alto	Alto	San Pedro Yepocapa, Chimaltenango	ICC, Municipalidad de Yepocapa 	Si	Si	Si	Si	Si	Si	No	No
+31	Central Izalco 	CASSA-CIZ	Automática GPRS	15 minutos	2019-12-03 00:00:00	3.315068493150685	-89.710624	13.721212	247	Medio	Medio 	Izalco, Sonsonate	CASSA	Si	Si	Si	Si	Si	Si	No	No
+32	Copal 	CASSA-CPL	Automática GPRS	15 minutos	2019-12-04 00:00:00	3.3123287671232875	-88.520958	13.329742	82	Bajo	Bajo 	Jiquilisco, Usulutan	CASSA	Si	Si	Si	Si	Si	Si	No	No
+33	Chaparrastique	CASSA-CPT	Automática GPRS	15 minutos	2019-12-04 00:00:00	3.3123287671232875	-88.147917	13.439782	91	Bajo	Bajo	San Miguel, San Miguel	CASSA	Si	Si	Si	Si	Si	Si	No	No
+34	El Carmen	CASSA-ECA	Automática GPRS	15 minutos	2020-06-10 00:00:00	2.7945205479452055	-90.011144	13.740947	6	Litoral	Litoral	San Francisco Menendez, Ahuachapan	CASSA	Si	Si	Si	Si	Si	Si	No	No
+35	San Clemente	CASSA-SCL	Automática GPRS	15 minutos	2020-06-10 00:00:00	2.7945205479452055	-89.454152	13.756581	460	Alto	Alto	Armenia, Sonsonate	CASSA	Si	Si	Si	Si	Si	Si	No	No
+36	Agua Santa	CASSA-AGS	Automática GPRS	15 minutos	2020-06-11 00:00:00	2.791780821917808	-88.797525	13.3961528	9	Litoral	Litoral	Zacatecoluca, La Paz 	CASSA	Si	Si	Si	Si	Si	Si	No	No
+37	Pueblo Real 	ICC-PBR	Automática GPRS	15 minutos	2021-06-03 00:00:00	1.8136986301369864	-90.965263	14.736308	2285	Alto 	Alto	Tecpan, Chimaltenango 	ACAX-TNC	Si	Si	Si	Si	Si	Si	No	No
+38	Monte Alegre	ICC-MTA	Automática GPRS	15 minutos	2022-01-26 00:00:00	1.1643835616438356	-91.022841	14.085284	37	Litoral	Litoral	La Gomera, Escuintla	Ingenio La Unión	Si	Si	Si	Si	Si	Si	Si	No
+39	Sotz'il	ICC-SOTZ	Automática GPRS	16 minutos	2022-09-29 00:00:00	0.4904109589041096	-90.812536	14.674384	1781	Alto	Alto 	Chimaltenango, Chimaltenango	SOTZ'IL	Si	Si	Si	Si	Si	Si	No	No
+40	La Joya 	ICC-JOY	Automática GPRS	15 minutos	2022-10-20 00:00:00	0.4328767123287671	-91.19881	13.931036	7	Litoral	Litoral	Sipacate, Escuintla	ICC	Si	Si	Si	Si	Si	Si	No	No
