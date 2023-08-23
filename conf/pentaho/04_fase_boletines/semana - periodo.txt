@@ -1,0 +1,2 @@
+semana;periodo
+1;2022
